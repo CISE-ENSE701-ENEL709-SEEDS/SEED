@@ -1,0 +1,29 @@
+.home-container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: inset 0 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+}
+
+.homeHeader {
+  font-size: 5vw;
+  font-weight: 300;
+  font-family: 'AvenirLTPro-Heavy';
+  text-align: center;
+  color: rgb(0, 0, 0);
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.homeTest {
+  font-size: 3vw;
+  font-weight: 500;
+  font-family: 'AvenirLTPro-Heavy';
+  text-align: center;
+  color: rgb(0, 0, 0);
+  padding-left: 10%;
+  padding-right: 10%;
+}
