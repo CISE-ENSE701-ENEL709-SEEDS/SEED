@@ -1,0 +1,3 @@
+# SEED
+Jay_Chen_14848069, Chenhe_Li-17998988 CISE ENSE701/ENEL709 Assignment 1B
+Team 1
